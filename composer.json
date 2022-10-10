@@ -114,6 +114,9 @@
             "drupal/core": "-p2"
         },
         "patches": {
+            "drupal/crop": {
+                "#3267287: [crop] Drupal 10": "https://www.drupal.org/files/issues/2022-09-23/3267287-18.patch"
+            }
         }
     },
     "scripts": {
